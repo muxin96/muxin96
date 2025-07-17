@@ -1,4 +1,5 @@
-## Hi there 👋
+## 小白的日常记录和分享
+👋
 
 <!--
 **muxin96/muxin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
